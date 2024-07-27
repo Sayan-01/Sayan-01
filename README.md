@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack & NEXT js ❤️**
 
 - 📫 How to reach me **sayandas61668@gmail.com**
 
