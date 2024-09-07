@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I am also an Artist 🎨**
 
+- 🌟 Co-founder of **AZEOREX** 🌍
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://m.facebook.com/profile.php/?id=100035727935505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan das" height="30" width="40" /></a>
